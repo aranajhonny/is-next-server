@@ -8,7 +8,8 @@
     "isServer",
     "next",
     "next.js"
-     ],
-  "author": "",
-  "license": "ISC"
+  ],
+  "repository": "https://github.com/aranajhonny/is-next-server.git",
+  "author": "@aranajhonny",
+  "license": "MIT"
 }
