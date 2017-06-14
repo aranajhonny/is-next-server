@@ -1,18 +1,16 @@
-check if next.js is running on server or client.
+#### Check if next.js is running on server or client.
 
-usage:
+#### usage:
 
 ```javascript
 
-const isServer = require('is-next-server')
+const isServer = require("is-next-server");
 
-let styletron
-
-export default function getStyletron () {
+export default () => (
   if (isServer) {
     // server code.
-  }else{
-  	// browser code.
+  } else {
+    // browser code.
   }
-
+)
 ```
