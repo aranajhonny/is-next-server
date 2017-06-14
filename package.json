@@ -1,5 +1,5 @@
 {
-  "name": "is-server-in-next",
+  "name": "is-next-server",
   "version": "1.0.0",
   "description": "check if next.js is running on server or client.",
   "main": "index.js",
