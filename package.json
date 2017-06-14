@@ -1,0 +1,14 @@
+{
+  "name": "is-server-in-next",
+  "version": "1.0.0",
+  "description": "check if next.js is running on server or client.",
+  "main": "index.js",
+  "keywords": [
+    "is-server",
+    "isServer",
+    "next",
+    "next.js"
+     ],
+  "author": "",
+  "license": "ISC"
+}
